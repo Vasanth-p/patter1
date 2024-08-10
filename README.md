@@ -1,10 +1,11 @@
 # patter1
 This is the number patter.
-INPUT:
+
+# INPUT:
 enter the number of rows
 5
 
-OUTPUT:
+# OUTPUT:
 1 
 2 6 
 3 7 10 
